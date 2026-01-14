@@ -55,11 +55,12 @@
 > Designed a user-centered interface for a patient monitoring system with a focus on accessibility.
 > * **Tech:** UI/UX Principles, Prototyping.
 
+
 ---
 
 ### 📊 GITHUB STATS
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hanzala123&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hanzala123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hanzala103&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hanzala103&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
