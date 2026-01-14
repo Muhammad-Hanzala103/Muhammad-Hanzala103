@@ -18,7 +18,7 @@
 
 | Degree | Institute | Status |
 | :--- | :--- | :--- |
-| **BS Computer Science** | **KICSIT**, Islamabad | **5th Semester** (Current) |
+| **BS Computer Science** | **IST**, Islamabad | **5th Semester** (Current) |
 | **Focus Areas** | Android Dev (Java/XML), HCI, Database Systems | 
 
 ---
