@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Muhammad Hanzala (Hani)</h1>
+  <h1>Muhammad Hanzala</h1>
   <h3>Computer Scientist | Android Developer | Creative Freelancer</h3>
   
   <p>
